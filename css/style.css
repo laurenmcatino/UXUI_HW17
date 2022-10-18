@@ -1,0 +1,67 @@
+body {
+    margin: 0;  
+}
+
+header {
+    padding: 40px 40px;
+    font-family: 'Gowun Batang', serif;
+}
+
+.hireMe{
+    float: right;
+    font-size: 15px;
+    font-family: 'Gowun Batang', serif;
+    padding: 0px 20px 0px 20px;
+    border-style: solid;
+    border-width: 2px; 
+    
+}
+
+header ul {
+    float: right;
+    padding-right: 40px;
+}
+
+header li {
+    font-size: 24px;
+    display: inline-block;
+    padding: 10px 40px 20px 40px;
+}
+
+.textBlock {
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+h1 {
+    font-family: 'Gowun Batang', serif;
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+P {
+    font-family: sf pro;
+    font-size: 18px;
+}
+
+.button{
+    border-width: 2px;
+    border-color: black;
+    font-size: large;
+    background-color: white;
+    font-family: 'Gowun Batang', serif;
+    
+}
+
+footer{
+    background-color: rgb(227, 227, 227);
+}
+
+Footer li {
+    font-family: 'Gowun Batang', serif;
+    font-size: medium; 
+    display: inline-block;
+    padding: 1.5%;
+}
